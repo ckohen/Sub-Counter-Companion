@@ -20,7 +20,8 @@ This program comes in two parts due to its unique construction.
 
 The first part is a chrome extension (This works in anything that is chromium based!) which you can download [here](https://chrome.google.com/webstore/detail/twitch-sub-point-counter/khjdganpjdoeeinadcneikclmpcpbecd).
 
-The second part is a windows application (sorry mac / linux users, porting this should be pretty simple, but its not as easy to package. Let me know if you need it!) which you can find the latest version of on the [releases page](https://github.com/ckohen/sub-counter-companion/releases).
+The second part is a windows application (sorry mac / linux users, porting this should be pretty simple, but its not as easy to package. Let me know if you need it!) which you can find the latest version of on the [releases page](https://github.com/ckohen/sub-counter-companion/releases) (It's the .msi not the source folder!).
+* [Direct download link (v0.1.1)](https://github.com/ckohen/Sub-Counter-Companion/releases/download/v0.1.1/Sub_Counter_Companion_Installer.msi)
 
 The program is a simple windows installer, and after installation it will behave like any other application. It does sit in your system tray however, so that you don't have to worry about it each time you start a stream.
 
